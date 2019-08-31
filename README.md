@@ -1,4 +1,5 @@
-This is the source code for the Houdini Ocean Toolkit.
+
+# This is the source code for the Houdini Ocean Toolkit.
 
 For licensing details see the file LICENSE.txt.
 
